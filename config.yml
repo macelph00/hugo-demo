@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://irep-air.netlify.app/"
 languageCode: en-us
 title: iRep Air
 theme: PaperMod
