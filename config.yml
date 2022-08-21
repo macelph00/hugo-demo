@@ -1,0 +1,26 @@
+baseURL: ""
+languageCode: en-us
+title: iRep Air
+theme: PaperMod
+params:
+  homeInfoParams:
+    title: 'Hi!'
+    content: 'Welcome to iForge, the first student led makerspace in the UK'
+  cover:
+    LinkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+menu:
+    main: 
+        - identifier: Home
+          name: Home
+          url: /home/
+          weight: 1
+        - identifier: Machines
+          name: Machines
+          url: /machines/
+          weight: 2
+        - identifier: Fun Section
+          name: Fun Section
+          url: /fun-section/
+          weight: 3
